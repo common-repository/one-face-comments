@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: One-Face Comments\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-11-14 21:59+0300\n"
+"PO-Revision-Date: 2009-11-14 21:59+0300\n"
+"Last-Translator: Sergey Biryukov <npocmop@gmail.com>\n"
+"Language-Team: Sergey Biryukov <npocmop@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11) ? 0 : ((n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20)) ? 1 : 2);\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIAN FEDERATION\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: one-face-comments.php:93
+msgid "Options saved."
+msgstr "Настройки сохранены."
+
+#: one-face-comments.php:96
+msgid "One-Face Comments Options"
+msgstr "Настройки блока One-Face"
+
+#: one-face-comments.php:100
+msgid "One-Face block URL:"
+msgstr "Адрес блока (URL):"
+
+#: one-face-comments.php:101
+msgid "Block examples"
+msgstr "Примеры блоков"
+
+#: one-face-comments.php:102
+#, php-format
+msgid "(Default: %s)"
+msgstr "(По умолчанию: %s)"
+
+#: one-face-comments.php:106
+msgid "Width:"
+msgstr "Ширина:"
+
+#: one-face-comments.php:108
+msgid "Height:"
+msgstr "Высота:"
+
+#: one-face-comments.php:110
+msgid "Background color:"
+msgstr "Цвет фона:"
+
+#: one-face-comments.php:115
+msgid "Use SWFObject script to insert?"
+msgstr "Использовать для вставки скрипт SWFObject?"
+
+#: one-face-comments.php:122
+msgid "Update Options &raquo;"
+msgstr "Обновить настройки &raquo;"
+
+#: one-face-comments.php:131
+msgid "One-Face Comments"
+msgstr "Блок One-Face"
+
